@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--add by sherry -->
+    <color name="white">#ffffff</color>
+    <color name="qc_action_text_color">#5a000000</color>
+    <color name="info_target_hover_tint">#FF009688</color>
+    <color name="navpage">#FFE1E8EB</color>
+    <color name="orange">#E9967A</color>
+    <color name="orange2">#FA8072</color>
+    <color name="pay_gray_bg">#F0F0F0</color>
+    <color name="dark_gray">#f7f8f8</color>
+    <color name="dark_gray2">#e2e2e2</color>
+    <color name="main_tab_text_color">#de3FCAB8</color>
+    <color name="main_tabtitle_normal2">#B3000000</color>
+    <color name="qc_tip_bg">#F2F2F2</color>
+    <color name="qc_tip_text_color">#8a000000</color>
+    <color name="qc_liner">#DEDEDE</color>
+    <color name="black">#000000</color>
+    <color name="gray">#f6b7ae</color>
+    <color name="main_theme">#0a000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="qc_action_text_color">#1a000000</color>
+</resources>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">青橙支付</string>
+    <!-- add by sherry for pay -->
+    <string name="app_tip">提示</string>
+    <string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+    <string name="pay_result_tip">这个界面用于显示第三方app通过微信支付的结果</string>
+    <string name="title_activity_cashier">支付订单</string>
+    <string name="alipay_btn">支付宝支付</string>
+    <string name="wxpay_btn">微信支付</string>
+
+    <string name="orderinfo">订单信息</string>
+    <string name="goods_name">商品名称</string>
+    <string name="goods_number">商品数量</string>
+    <string name="goods_discount">已打折</string>
+    <string name="goods_amount">商品总价</string>
+    <string name="choose_payment">选择支付方式</string>
+    <string name="ali">支付宝</string>
+    <string name="wx">微信</string>
+    <string name="pay_label">数亿用户都在用，安全可托付</string>
+    <string name="wxlabel">推荐安装微信5.0及以上版本的用户使用</string>
+    <string name="alilabel">推荐有支付宝帐号的用户使用</string>
+    <string name="pay">确认支付</string>
+    <string name="pay_success">支付成功</string>
+    <string name="wx_uninstalled">[需要安装微信]</string>
+    <string name="wx_uninstalled2">需要安装微信才可使用微信支付</string>
+    <string name="need_login_account">请登陆您的MyUI账户后再购买</string>
+    <string name="go_login">登陆/注册>></string>
+    <string name="pref_title_set_business_server">设置为正式平台</string>
+    <string name="permission_setting">权限设置</string>
+    <string name="permission_msg">青橙支付需要读取通讯录权限</string>
+    <string name="cancel">取消</string>
+    <string name="setting">设置</string>
+    <string name="sure">确定</string>
+
+    <string name="pay_result_confirming">支付结果确认中</string>
+    <string name="pay_cancel">支付取消</string>
+    <string name="pay_fail">支付失败</string>
+    <string name="pay_success">支付成功</string>
+    <string name="no_network">网络连接异常</string>
+
+    <string name="connect_time_out">网络连接超时</string>
+    <string name="get_ip_null">获取ip为空</string>
+    <string name="param_null">获取参数为空</string>
+    <string name="pay_error">支付异常，请稍后重试</string>
+    <string name="pay_fail">支付失败</string>
+    <string name="goods_error_format">商品格式错误</string>
+    <string name="none">无</string>
+</resources>

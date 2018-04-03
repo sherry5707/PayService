@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="260dp"
+    android:layout_height="140dp"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="5dp"
+    tools:context="com.ragentek.service.payservice.AlertDialogActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        android:text="@string/app_tip" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        android:text="@string/need_login_account" />
+
+    <TextView
+        android:id="@+id/go_login"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="right|bottom"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:gravity="bottom"
+        android:text="@string/go_login"
+        android:textColor="@color/info_target_hover_tint" />
+</LinearLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:name:tc:xliff:document:1.2">
+    <string name="app_name">QingCheng Checkout Counter</string>
+    <!-- add by sherry for pay -->
+    <string name="app_tip">Tips</string>
+    <string name="pay_result_callback_msg" formatted="false">WeChat pay result：%s</string>
+    <string name="pay_result_tip">This interface is used to display the results of payment by a third party app via WeChat</string>
+    <string name="title_activity_cashier">Orders</string>
+    <string name="alipay_btn">payAliPay</string>
+    <string name="wxpay_btn">WeChatPay</string>
+
+    <string name="orderinfo">Orders Information</string>
+    <string name="goods_name">Goods Name</string>
+    <string name="goods_number">Goods Count</string>
+    <string name="goods_discount">Has been discounted</string>
+    <string name="goods_amount">Total price of goods</string>
+    <string name="choose_payment">Select Payment Method</string>
+    <string name="ali">AliPay</string>
+    <string name="wx">WeChat</string>
+    <string name="pay_label">Hundreds of millions of users are in use, security can be entrusted</string>
+    <string name="wxlabel">It is recommended to users who installed WeChat 5.0 and above</string>
+    <string name="alilabel">Recommended to users who has Alipay account</string>
+    <string name="pay">confirm to pay</string>
+    <string name="pay_success">pay successful</string>
+    <string name="wx_uninstalled">[Need to install WeChat]</string>
+    <string name="wx_uninstalled2">Need to install WeChat to use WeChat to pay</string>
+    <string name="need_login_account">Log in your MyUI account before paying</string>
+    <string name="go_login">Login/Register>></string>
+    <string name="pref_title_set_business_server">Set up as a formal platform</string>
+    <string name="permission_setting">Permission settings</string>
+    <string name="permission_msg">QingCheng Checkout Counter needs GET_ACCOUNTS permissions</string>
+    <string name="cancel">Cancel</string>
+    <string name="setting">Setting</string>
+    <string name="sure">Confirm</string>
+
+    <string name="pay_result_confirming">Payment results are confirming</string>
+    <string name="pay_cancel">Payment has been canceled</string>
+    <string name="pay_fail">Payment failed</string>
+    <string name="pay_success">payment successful</string>
+    <string name="no_network">The network can not connect</string>
+
+    <string name="connect_time_out">network connect time out</string>
+    <string name="get_ip_null">get ip null</string>
+    <string name="param_null">get param null</string>
+    <string name="pay_error">Payment exception，Please try again later</string>
+    <string name="none">none</string>
+    <string name="goods_error_format">goods data format error</string>
+</resources>
